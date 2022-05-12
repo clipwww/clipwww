@@ -1,5 +1,6 @@
 ### J格係？🤔
 
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=clipwww)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clipwww&layout=compact&hide=html,css&langs_count=6)
 
 <!--
