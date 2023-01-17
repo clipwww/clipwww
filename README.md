@@ -1,8 +1,8 @@
 ### J格係？🤔
 
-![](https://github-readme-stats.vercel.app/api?username=clipwww&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](http://github-readme-stats-nxlu-clipwww.vercel.app/api?username=clipwww&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=clipwww&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=clipwww&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=445)
+![](http://github-readme-stats-nxlu-clipwww.vercel.app/api/top-langs/?username=clipwww&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=445)
 
 
 <!--
